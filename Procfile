@@ -1,1 +1,5 @@
-worker: python -m Bot
+build:
+  docker:
+    worker: Dockerfile
+run:
+  worker: bash start.sh
