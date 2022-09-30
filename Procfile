@@ -1,1 +1,1 @@
-web: python3 bot/_main_.py
+web: python3 run.sh
