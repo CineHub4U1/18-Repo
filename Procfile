@@ -1,3 +1,3 @@
-worker: _main.py_
+worker: _main_.py_
 web: Python
 
