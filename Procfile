@@ -1,2 +1,3 @@
 worker: Dockerfile
+web : Python 
 
