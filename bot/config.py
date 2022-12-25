@@ -4,9 +4,9 @@
 from decouple import config
 
 try:
-    APP_ID = config("APP_ID", "7405235")
-    API_HASH = config("API_HASH", "5c9541eefe8452186e9649e2effc1f3f")
-    BOT_TOKEN = config("BOT_TOKEN", "5471076772:AAHBaC_ALIO1lQRCPoT9PzLsw4hx7tj-I50")
+    APP_ID = config("APP_ID", "20288183")
+    API_HASH = config("API_HASH", "c552d415c8c88ac267891e1d01deaa57")
+    BOT_TOKEN = config("BOT_TOKEN", "5929336845:AAEot0q2AHflpowNzYBO6L1aZ2Gb_Esc_zA")
     DEV = 5211097098
     OWNER = config("OWNER", "1164918935")
     ffmpegcode = ["-preset veryfast -c:v libx265 -s 1280:-2 -x265-params 'bframes=8:psy-rd=1:ref=3:aq-mode=3:aq-strength=0.8:deblock=1,1' -metadata 'title=Encoded By DaddyCooL' -pix_fmt yuv420p -crf 24 -c:a libopus -b:a 128k -vbr on -c:s copy -map 0 threads 1"]
