@@ -34,11 +34,11 @@ Add in [@BotFather](https://t.me/BotFather)
     logs - Get Bot Logs
     ping - Check Ping
     sysinfo - Get System Info
-    leech - Leech Links And Compress Video
+     - Links And Compress Video
     renew - Clear Cached Downloads, Queue etc
     clear - Clear Queued Files
     showthumb - Show Current Thumbnail
-    speed - Do A SpeedTest
+    speed - Do A 
     eval - Execute An Argument
     bash - Run Bash Commands
     cmds - List Available Commands
