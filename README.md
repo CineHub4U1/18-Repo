@@ -38,7 +38,6 @@ Add in [@BotFather](https://t.me/BotFather)
     renew - Clear Cached Downloads, Queue etc
     clear - Clear Queued Files
     showthumb - Show Current Thumbnail
-    speed - Do A 
     eval - Execute An Argument
     bash - Run Bash Commands
     cmds - List Available Commands
