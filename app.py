@@ -1,4 +1,4 @@
-app = Flask(__name__)
+app = Flask(__main__)
 
 @app.route('/')
 def hello_world():
