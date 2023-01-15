@@ -4,3 +4,4 @@ https://github.com/1Danish-00/Telethon/archive/master.zip
 html_telegraph_poster
 speedtest-cli
 aiohttp==3.8.1
+pyaesni
